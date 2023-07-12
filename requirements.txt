@@ -34,12 +34,11 @@ pymongo==4.3.3
 PySocks==1.7.1
 pytest==7.3.1
 pytest-cov==4.1.0
-python-dotenv==1.0.0
+python-dotenv==0.21.1
 pytz==2023.3
 requests==2.31.0
 requests-file==1.5.1
 six==1.16.0
-SQLAlchemy==2.0.17
 typing_extensions==4.7.0
 urllib3==2.0.3
 virtualenv==20.23.0
