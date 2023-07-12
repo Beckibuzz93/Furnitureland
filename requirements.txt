@@ -43,6 +43,6 @@ typing_extensions==4.7.0
 urllib3==2.0.3
 virtualenv==20.23.0
 virtualenv-clone==0.5.7
-Werkzeug==2.3.6
+Werkzeug==2.3.3
 zope.event==4.6
 zope.interface==6.0
